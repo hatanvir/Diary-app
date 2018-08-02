@@ -4,7 +4,7 @@ This is an android practice project. Where the user can save, update and delete 
 <h3>Features of this app</h3>
   <ul style="list-style-type:square">
   <li>Add everyday activity.</li>
-  <li>Edit and update activity.</li>
+  <li>Update activity.</li>
   <li>Share activity on social media.</li>
   <li>Delete single item or multipple items.</li>
 </ul>
@@ -16,15 +16,15 @@ This is an android practice project. Where the user can save, update and delete 
   <li>Sqlite database.</li>
 </ul>
   
-<h3>Purpose for creating this app</h3>
+<h3>Purpose to creating this app</h3>
   <ul style="list-style-type:square">
   <li>Practice sqlite database.</li>
   <li>Java coding practice</li>
   <li>Xml design practice</li>
 </ul>
-<h3>App screenshot</h3>
+<h3>Installation</h3>
 <ul style="list-style-type:square">
   <li>Remove the "Screenshot" folder after cloning or downloading it, and import to android studio.</li>
 </ul>
 <h3>App screenshot</h3>
-<img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Home.png" alt="Image view" height="430" width="230">   <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Update%20screen.png" alt="Image view" height="430" width="230">   <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Delete.png" alt="Image view" height="430" width="230">  <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Share.png" alt="Image view" height="430" width="230">
+<img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Home.png" alt="Image view" height="400" width="230" ><img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Update%20screen.png" alt="Image view" height="400" width="230"> <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Delete.png" alt="Image view" height="400" width="230"> <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Share.png" alt="Image view" height="400" width="230">
