@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/subjectListViewShapeId"
+            android:layout_width="match_parent"
+            android:layout_height="39dp"
+            android:text="Description"
+            android:textColor="@android:color/background_dark"
+            android:textSize="20dp"
+            android:layout_margin="3dp"
+            />
+m
+        <TextView
+            android:id="@+id/dateListViewShapeId"
+            android:layout_width="match_parent"
+            android:layout_height="31dp"
+            android:text="Date"
+            android:textColor="#808080"
+            android:textSize="15dp"
+            android:layout_margin="3dp"/>
+    </LinearLayout>
+
+    <!--<ImageView
+        android:id="@+id/imageId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="24dp"
+        android:src="@drawable/next"
+        android:layout_alignParentRight="true" />-->
+
+</RelativeLayout>

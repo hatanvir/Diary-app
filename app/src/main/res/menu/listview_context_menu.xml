@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/editComtextMenuId"
+        android:orderInCategory="100"
+        android:title="Edit"
+        />
+    <item
+        android:id="@+id/deleteContextMenuId"
+        android:orderInCategory="100"
+        android:title="Delete"/>
+    <item
+        android:id="@+id/shareContextMenuId"
+        android:orderInCategory="100"
+        android:title="Share"
+        />
+</menu>

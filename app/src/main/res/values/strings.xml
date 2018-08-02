@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_data_view">DataViewActivity</string>
+    <string name="title_activity_add_data">AddDataActivity</string>
+    <string name="about">Some people want to save their daily activity and want to share on social media. This app will help them perfectly.\n\n
+
+        Instructions to use this app:\n\n
+
+        If you want to add your activity then click on add icon from the bottom|right on the home screen. After writing your data click save button to save.\n\n
+
+        For share, you need to click the share icon\n\n
+        For update, you need to click the update button.\n\n
+
+        You can delete multiple items in one time. Just hold on the item and select how many items you want to delete. Then press the delete button to delete.\n\n
+
+        That\'s all.</string>
+</resources>
