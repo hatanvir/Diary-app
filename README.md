@@ -27,4 +27,11 @@ This is an android practice project. Where the user can save, update and delete 
   <li>Remove the "Screenshot" folder after cloning or downloading it, and import to android studio.</li>
 </ul>
 <h3>App screenshot</h3>
-<img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Home.png" alt="Image view" height="400" width="230" ><img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Update%20screen.png" alt="Image view" height="400" width="230"> <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Delete.png" alt="Image view" height="400" width="230"> <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Share.png" alt="Image view" height="400" width="230">
+<h4>Home screen</h4>
+<img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Home.png" alt="Image view" height="400" width="230" >
+<h4>Update screen</h4>
+<img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Update%20screen.png" alt="Image view" height="400" width="230">
+<h4>Delete screen</h4>
+<img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Delete.png" alt="Image view" height="400" width="230">
+<h4>Share screen</h4>
+<img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Share.png" alt="Image view" height="400" width="230">
