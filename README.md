@@ -35,3 +35,5 @@ This is an android practice project. Where the user can save, update and delete 
 <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Delete.png" alt="Image view" height="400" width="230">
 <h4>Share screen</h4>
 <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Share.png" alt="Image view" height="400" width="230">
+
+<h3>Thank you :)</h3>
