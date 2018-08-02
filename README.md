@@ -22,5 +22,9 @@ This is an android practice project. Where the user can save, update and delete 
   <li>Java coding practice</li>
   <li>Xml design practice</li>
 </ul>
-
 <h3>App screenshot</h3>
+<ul style="list-style-type:square">
+  <li>Remove the "Screenshot" folder after cloning or downloading it, and import to android studio.</li>
+</ul>
+<h3>App screenshot</h3>
+<img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Home.png" alt="Image view" height="430" width="230">   <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Update%20screen.png" alt="Image view" height="430" width="230">   <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Delete.png" alt="Image view" height="430" width="230">  <img src="https://github.com/hatanvir/Diary-app/blob/master/Screenshot/Share.png" alt="Image view" height="430" width="230">
